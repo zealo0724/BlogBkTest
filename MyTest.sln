@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyTest.Web", "MyTest.Web\My
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyTest.Model", "MyTest.Model\MyTest.Model.csproj", "{B4705E2C-D801-4B15-98D7-5A3420B43EA1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTest.Data", "..\ZealoTest\MyTest.Data\MyTest.Data.csproj", "{1DC9DF18-B99D-4080-8AC0-C755F9AEEC20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyTest.Data", "MyTest.Data\MyTest.Data.csproj", "{03E46D58-B8A7-4B4D-BC32-CF15EB1638D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{B4705E2C-D801-4B15-98D7-5A3420B43EA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4705E2C-D801-4B15-98D7-5A3420B43EA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4705E2C-D801-4B15-98D7-5A3420B43EA1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1DC9DF18-B99D-4080-8AC0-C755F9AEEC20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1DC9DF18-B99D-4080-8AC0-C755F9AEEC20}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1DC9DF18-B99D-4080-8AC0-C755F9AEEC20}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1DC9DF18-B99D-4080-8AC0-C755F9AEEC20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03E46D58-B8A7-4B4D-BC32-CF15EB1638D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03E46D58-B8A7-4B4D-BC32-CF15EB1638D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03E46D58-B8A7-4B4D-BC32-CF15EB1638D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03E46D58-B8A7-4B4D-BC32-CF15EB1638D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

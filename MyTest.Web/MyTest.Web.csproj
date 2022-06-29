@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\ZealoTest\MyTest.Data\MyTest.Data.csproj" />
+    <ProjectReference Include="..\MyTest.Data\MyTest.Data.csproj" />
   </ItemGroup>
 
   <ItemGroup>
