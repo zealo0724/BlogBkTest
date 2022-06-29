@@ -1,0 +1,12 @@
+C:\Users\zealo\source\repos\MyTestSolution\MyTest.Model\bin\Debug\net6.0\MyTest.Model.deps.json
+C:\Users\zealo\source\repos\MyTestSolution\MyTest.Model\bin\Debug\net6.0\MyTest.Model.dll
+C:\Users\zealo\source\repos\MyTestSolution\MyTest.Model\bin\Debug\net6.0\MyTest.Model.pdb
+C:\Users\zealo\source\repos\MyTestSolution\MyTest.Model\obj\Debug\net6.0\MyTest.Model.csproj.AssemblyReference.cache
+C:\Users\zealo\source\repos\MyTestSolution\MyTest.Model\obj\Debug\net6.0\MyTest.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zealo\source\repos\MyTestSolution\MyTest.Model\obj\Debug\net6.0\MyTest.Model.AssemblyInfoInputs.cache
+C:\Users\zealo\source\repos\MyTestSolution\MyTest.Model\obj\Debug\net6.0\MyTest.Model.AssemblyInfo.cs
+C:\Users\zealo\source\repos\MyTestSolution\MyTest.Model\obj\Debug\net6.0\MyTest.Model.csproj.CoreCompileInputs.cache
+C:\Users\zealo\source\repos\MyTestSolution\MyTest.Model\obj\Debug\net6.0\MyTest.Model.dll
+C:\Users\zealo\source\repos\MyTestSolution\MyTest.Model\obj\Debug\net6.0\refint\MyTest.Model.dll
+C:\Users\zealo\source\repos\MyTestSolution\MyTest.Model\obj\Debug\net6.0\MyTest.Model.pdb
+C:\Users\zealo\source\repos\MyTestSolution\MyTest.Model\obj\Debug\net6.0\ref\MyTest.Model.dll
