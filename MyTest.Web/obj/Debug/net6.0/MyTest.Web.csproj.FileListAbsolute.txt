@@ -65,3 +65,5 @@ C:\Users\zealo\source\repos\MyTestSolution\MyTest.Web\bin\Debug\net6.0\MyTest.Mo
 C:\Users\zealo\source\repos\MyTestSolution\MyTest.Web\bin\Debug\net6.0\MyTest.Data.pdb
 C:\Users\zealo\source\repos\MyTestSolution\MyTest.Web\bin\Debug\net6.0\MyTest.Model.pdb
 C:\Users\zealo\source\repos\MyTestSolution\MyTest.Web\obj\Debug\net6.0\MyTest.Web.csproj.CopyComplete
+C:\Users\zealo\source\repos\MyTestSolution\MyTest.Web\bin\Debug\net6.0\react-app\build\asset-manifest.json
+C:\Users\zealo\source\repos\MyTestSolution\MyTest.Web\bin\Debug\net6.0\react-app\build\manifest.json
